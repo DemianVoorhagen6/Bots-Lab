@@ -1,5 +1,5 @@
 # Name of the file (without .py extension!) that contains the bot
-bot_name = 'bots.rsi'
+bot_name = 'bots/Deembot-trend-trailer-1.1'
 
 # Example settings for backtesting engine
 sim_params = {
